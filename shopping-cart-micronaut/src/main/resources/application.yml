@@ -1,0 +1,3 @@
+micronaut:
+    application:
+        name: shopping-cart-micronaut

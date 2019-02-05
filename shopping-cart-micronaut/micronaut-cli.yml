@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.example.myshop.shoppingcart
+---
+testFramework: junit
+sourceLanguage: java
